@@ -9,7 +9,7 @@ class Student{
     }
 }
 
-public class code3{
+public class constructorexample{
     public static void main(String[] args){
         Student s1 = new Student(20);
     }
